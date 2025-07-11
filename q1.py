@@ -107,4 +107,4 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 # Save result
-cv2.imwrite("annotated_result.jpg", image)
+cv2.imwrite("Rectangle Dimensions.jpg", image)
